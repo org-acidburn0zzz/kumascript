@@ -24,7 +24,7 @@
     },
     "dependencies": {
         "ejs": "2.6.1",
-        "express": "4.16",
+        "express": "4.17.1",
         "lru-cache": "5.1.1",
         "mdn-browser-compat-data": "^1.0.0",
         "mdn-data": "^2.0.6",
